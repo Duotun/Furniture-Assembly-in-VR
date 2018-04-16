@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FurnitureMade\Script\Hide.cs">
+    <Files>
+      <File FileName="Assets\FurnitureMade\Script\CheckFurnitureRight.cs" Line="46" Column="30" />
+      <File FileName="Assets\FurnitureMade\Script\GetChildrenButton.cs" Line="90" Column="3" />
+      <File FileName="Assets\FurnitureMade\Script\ShowFurnitureChildren.cs" Line="1" Column="1" />
+      <File FileName="Assets\FurnitureMade\Script\BeginButtonChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Prefabs\Resources\Scripts\VRTK_RadialMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\SteamVR\Scripts\SteamVR_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlurControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\FurnitureMade\Script\LoadScene.cs" Line="19" Column="1" />
+      <File FileName="Assets\FurnitureMade\Script\Hide.cs" Line="12" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
